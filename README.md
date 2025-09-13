@@ -7,7 +7,7 @@ In 2024 I graduated on a associate degree in informatics,  but i knew this progr
 
 ## Today
 
-Today I'm in college studying software development and deepening my knowledge in backend technologies, databases, and cloud computing. I am currently focused on improving my skills in C#, Laravel, and data structures , while also exploring new trends like microservices and serverless architectures.
+Today I'm in college studying software development and deepening my knowledge in backend technologies, databases, and cloud computing. I am currently focused on improving my skills in C, Laravel, and data structures , while also exploring new trends like microservices and serverless architectures.
 
 
 ## My Skills
