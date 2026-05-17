@@ -20,11 +20,12 @@ Today I'm in college studying software development and deepening my knowledge in
   <img style="width:50px; height:50px; align:center; " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />     
   <img style="width:50px; height:50px; align:center; " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />               
   <img style="width:50px; height:50px; align:center; " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img style="width:50px; height:50px; align:center; " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />        
+  <img style="width:50px; height:50px; align:center; " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />      
 </div>
 
+
 ## GitHub Stats
-![Murilo1501 GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo1501&commits_year=2020)
+![Murilo1501's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Murilo1501&show_icons=true&theme=radical)
 
 
 
