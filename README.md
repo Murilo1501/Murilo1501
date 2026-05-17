@@ -19,6 +19,7 @@ Today I'm in college studying software development and deepening my knowledge in
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/> 
   
 </div>
 
@@ -29,7 +30,9 @@ Today I'm in college studying software development and deepening my knowledge in
    <img src="https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/> 
+   <img src="https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white"/>
    <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white"/> 
 </div>
 
 <div style="display: inline_block">
