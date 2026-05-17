@@ -24,8 +24,7 @@ Today I'm in college studying software development and deepening my knowledge in
 </div>
 
 ## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo1501&show_icons=true&theme=dark)
+![Murilo1501 GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo1501&commits_year=2020)
 
 
 
